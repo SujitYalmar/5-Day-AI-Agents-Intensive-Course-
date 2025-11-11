@@ -2,6 +2,9 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![GitHub stars](https://img.shields.io/github/stars/SujitYalmar/AI-Agent-Development-ADK?style=social)](https://github.com/SujitYalmar/AI-Agent-Development-ADK/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/SujitYalmar/AI-Agent-Development-ADK)](https://github.com/SujitYalmar/AI-Agent-Development-ADK/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/SujitYalmar/AI-Agent-Development-ADK)](https://github.com/SujitYalmar/AI-Agent-Development-ADK/commits/main)
 
 > **Building Intelligent AI Agents using Google's Agent Development Kit (ADK)**
 >
