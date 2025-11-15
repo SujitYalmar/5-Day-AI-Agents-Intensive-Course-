@@ -104,6 +104,18 @@ This repo gives you a full end-to-end agent development lifecycle.
 └── LICENSE
 ```
 
+## 🧪 How to Use the Notebooks
+
+- Start with Day 1 folder to understand agent foundations.
+
+- Explore each notebook sequentially (Day 1 → Day 5).
+
+- Use codelabs to build and test your own agent.
+
+- Explore the Tools folder to see reusable code patterns.
+
+- By Day 5, you will be able to construct a multi-agent system and deploy it.
+
 ## ⭐ Support This Project  
 If you find this repository helpful, **please give it a star!**  
 It helps others discover the project and motivates me to keep improving it. 😊
