@@ -372,10 +372,4 @@ It helps others discover the project and motivates continuous improvement.
 
 ---
 
-<div align="center">
 
-**Made with ❤️ by the AI Agents Community**
-
-*Empowering developers to build intelligent autonomous systems*
-
-</div>
