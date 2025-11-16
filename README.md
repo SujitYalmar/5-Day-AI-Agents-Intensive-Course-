@@ -46,7 +46,7 @@ A comprehensive, hands-on repository containing all materials from the **5-Day A
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### Clone & Setup (5 minutes)
 
